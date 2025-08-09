@@ -7,6 +7,9 @@
 # Node
 node_modules/
 
+# PhpStorm
+/.idea/
+
 # PHPUnit
 /.phpunit.result.cache
 
