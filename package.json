@@ -13,9 +13,16 @@
     "cheerio": "^1.0.0-rc.12",
     "express": "^4.19.2",
     "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "pdfjs-dist": "^4.10.38",
     "sanitize-html": "^2.13.0"
   },
-  "keywords": ["medical", "quiz", "trivia", "education"],
+  "keywords": [
+    "medical",
+    "quiz",
+    "trivia",
+    "education"
+  ],
   "author": "",
   "license": "ISC"
 }
