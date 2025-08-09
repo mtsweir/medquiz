@@ -1,0 +1,51 @@
+# Local configuration
+/.env.local
+
+# PHP
+/vendor/
+
+# Node
+node_modules/
+
+# PHPUnit
+/.phpunit.result.cache
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+*.vsix
+.history/
+
+# MacOS
+**/.DS_Store
+
+# Extensions
+*._*.*
+*.bak
+*.map
+
+# Files
+.bashrc
+.bash_logout
+.bash_profile
+.buildpath
+.gtkrc
+.history
+.htgroup
+.htpasswd
+.kde
+.project
+.sass-cache
+.settings
+
+audit.log
+cache.properties
+grepcode.bat
+humbug.json.dist
+humbuglog.txt
+settings.php
+Thumbs.db
